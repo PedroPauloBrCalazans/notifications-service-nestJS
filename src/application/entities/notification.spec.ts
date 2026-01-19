@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { Content } from './content';
 import { Notification } from './notification';
 

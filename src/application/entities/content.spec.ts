@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { Content } from './content';
 
 describe('Testes relacionados ao Conteúdo da notificação.', () => {
