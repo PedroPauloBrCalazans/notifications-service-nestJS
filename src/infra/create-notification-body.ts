@@ -12,3 +12,4 @@ export class CreateNotificationBody {
   @IsUUID()
   recipientId: string;
 }
+ 
