@@ -1,7 +1,7 @@
 /* eslint-disable prettier/prettier */
 import { Module } from '@nestjs/common';
 import { NotificationsController } from './http/controller/notifications.controller';
-import { SendNotification } from 'src/application/use-cases/send-notification';
+import { SendNotification } from '@application/use-cases/send-notification';
 import { DatabaseModule } from './database/database.module';
 
 @Module({
