@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { Content } from '@application/entities/content';
 import {
   Notification,
